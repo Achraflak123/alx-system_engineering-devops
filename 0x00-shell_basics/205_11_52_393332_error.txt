@@ -1,0 +1,49 @@
+
+t]
+total 84
+-rwxr-xr-x 1 996 992 16 Mar  9 16:41 0-current_working_directory
+-rwxr-xr-x 1 996 992 35 Mar  9 16:41 100-lets_move
+-rwxr-xr-x 1 996 992 18 Mar  9 16:41 101-clean_emacs
+-rwxr-xr-x 1 996 992 39 Mar  9 16:41 102-tree
+-rwxr-xr-x 1 996 992 20 Mar  9 16:41 103-commas
+-rwxr-xr-x 1 996 992 17 Mar  9 16:41 10-back
+-rwxr-xr-x 1 996 992 30 Mar  9 16:41 11-lists
+-rwxr-xr-x 1 996 992 31 Mar  9 16:41 12-file_type
+-rwxr-xr-x 1 996 992 33 Mar  9 16:41 13-symbolic_link
+-rwxr-xr-x 1 996 992 28 Mar  9 16:41 14-copy_html
+-rwxr-xr-x 1 996 992 18 Mar  9 16:41 1-listit
+-rwxr-xr-x 1 996 992 17 Mar  9 16:41 2-bring_me_home
+-rwxr-xr-x 1 996 992 19 Mar  9 16:41 3-listfiles
+-rwxr-xr-x 1 996 992 19 Mar  9 16:41 4-listmorefiles
+-rwxr-xr-x 1 996 992 22 Mar  9 16:41 5-listfilesdigitonly
+-rwxr-xr-x 1 996 992 50 Mar  9 16:41 6-firstdirectory
+-rwxr-xr-x 1 996 992 51 Mar  9 16:41 7-movethatfile
+-rwxr-xr-x 1 996 992 45 Mar  9 16:41 8-firstdelete
+-rwxr-xr-x 1 996 992 44 Mar  9 16:41 9-firstdirdeletion
+-rw-r--r-- 1 996 992  7 Mar  9 16:4...
+(1084 chars long)
+
+[Expected]
+0-current_working_directory
+100-lets_move
+101-clean_emacs
+102-tree
+103-commas
+10-back
+11-lists
+12-file_type
+13-symbolic_link
+14-copy_html
+1-listit
+2-bring_me_home
+3-listfiles
+4-listmorefiles
+5-listfilesdigitonly
+6-firstdirectory
+7-movethatfile
+8-firstdelete
+9-firstdirdeletion
+README.md
+school.mgc
+
+(298 chars long)i
