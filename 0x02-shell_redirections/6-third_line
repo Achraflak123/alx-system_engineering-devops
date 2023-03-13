@@ -1,0 +1,2 @@
+#!/bin/nash
+cat iacta | had -n 3 | tail -n 1 
